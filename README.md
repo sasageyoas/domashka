@@ -13,29 +13,15 @@
 
 ☆функции -<https://github.com/sasageyoas/domashka/tree/main/5tasks> <br>язык: С#
 
-☆циклы - <https://github.com/sasageyoas/domashka/tree/main/cikli>
+☆циклы - <https://github.com/sasageyoas/domashka/tree/main/cikli> <br>язык: С#
 
-язык: С#
+☆кодран - <https://github.com/sasageyoas/domashka/tree/main/coderun> <br>язык: С#
 
-☆кодран - <https://github.com/sasageyoas/domashka/tree/main/coderun>
+☆крестики нолики - <https://github.com/sasageyoas/domashka/tree/main/krestiki-noliki> <br>язык: С#
 
-язык: С#
+☆массив - <https://github.com/sasageyoas/domashka/tree/main/massiiv>  <br>язык: С#
 
-☆крестики нолики - <https://github.com/sasageyoas/domashka/tree/main/krestiki-noliki>
-
-язык: С#
-
-☆массив - <https://github.com/sasageyoas/domashka/tree/main/massiiv> 
-
-язык: С#
-
-☆простой калькулятор - <https://github.com/sasageyoas/domashka/tree/main/calccc>
-
-язык: С#
-
--обработка пользвовательского ввода
-
--арифметические операции
+☆простой калькулятор - <https://github.com/sasageyoas/domashka/tree/main/calccc> <br>язык: С# <br>-обработка пользвовательского ввода <br>-арифметические операции
 
 
 ☆UML блок схемы - <https://github.com/sasageyoas/domashka/tree/main/uml>
