@@ -2,13 +2,14 @@
 
 <h3>практические задания <br>текстовая новелла с незабываемым приключением, волнующим сюжетом и слезливыми концовками(вся страна рыгала)
 
-<br>задания по циклам <br>[задание №1](https://github.com/sasageyoas/domashka/blob/main/cikli/calc1.cs) <br>условие: рассчитать итоговую сумму вклада с 7% месячной ставкой за указанное количество месяцев.
+<br>задания по циклам 
+<br>✧[задание №1](https://github.com/sasageyoas/domashka/blob/main/cikli/calc1.cs)✧ <br>условие: рассчитать итоговую сумму вклада с 7% месячной ставкой за указанное количество месяцев.
 
-<br>✧[задание№2](https://github.com/sasageyoas/domashka/blob/main/cikli/calc2.cs) <br>условие: реализовать расчет вклада через цикл while.
+<br>✧[задание№2](https://github.com/sasageyoas/domashka/blob/main/cikli/calc2.cs)✧ <br>условие: реализовать расчет вклада через цикл while.
 
-<br>[задание№3](https://github.com/sasageyoas/domashka/blob/main/cikli/tablica.cs) <br>условие: вывести таблицу умножения 10×10.
+<br>✧[задание№3](https://github.com/sasageyoas/domashka/blob/main/cikli/tablica.cs)✧ <br>условие: вывести таблицу умножения 10×10.
 
-<br>[задание№4](https://github.com/sasageyoas/domashka/blob/main/cikli/2chisla.cs) <br>условие: Принимать числа от 0 до 10, пока не будут введены корректные значения.
+<br>✧[задание№4](https://github.com/sasageyoas/domashka/blob/main/cikli/2chisla.cs)✧ <br>условие: Принимать числа от 0 до 10, пока не будут введены корректные значения.
 
 
 
