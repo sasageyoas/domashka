@@ -11,20 +11,33 @@
 
 сожержание репозитория	(ﾉ´ヮ`)ﾉ*: ･ﾟ
 
-☆функции -<https://github.com/sasageyoas/domashka/tree/main/5tasks>
+☆функции -<https://github.com/sasageyoas/domashka/tree/main/5tasks> <br>язык: С#
 
 ☆циклы - <https://github.com/sasageyoas/domashka/tree/main/cikli>
 
+язык: С#
+
 ☆кодран - <https://github.com/sasageyoas/domashka/tree/main/coderun>
+
+язык: С#
 
 ☆крестики нолики - <https://github.com/sasageyoas/domashka/tree/main/krestiki-noliki>
 
+язык: С#
+
 ☆массив - <https://github.com/sasageyoas/domashka/tree/main/massiiv> 
 
+язык: С#
+
 ☆простой калькулятор - <https://github.com/sasageyoas/domashka/tree/main/calccc>
-язык:
+
+язык: С#
+
 -обработка пользвовательского ввода
+
 -арифметические операции
 
+
 ☆UML блок схемы - <https://github.com/sasageyoas/domashka/tree/main/uml>
-платворма: [Draw.io](https://www.drawio.com/)
+
+платформа: [Draw.io](https://www.drawio.com/)
