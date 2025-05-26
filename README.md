@@ -13,3 +13,5 @@
 массив - <https://github.com/sasageyoas/domashka/tree/main/massiiv> 
 
 простой калькулятор - <https://github.com/sasageyoas/domashka/tree/main/ochprostoycalc>
+
+UML блок схемы - <https://github.com/sasageyoas/domashka/tree/main/uml>
