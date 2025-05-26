@@ -5,22 +5,26 @@
 
 *платформа* .NET Framevork 4.8
 
-*язык программирования*
+*язык программирования* C#
 
 *среда разработки* Visual Studio 2022
 
 сожержание репозитория	(ﾉ´ヮ`)ﾉ*: ･ﾟ
 
-функции -<https://github.com/sasageyoas/domashka/tree/main/5tasks>
+☆функции -<https://github.com/sasageyoas/domashka/tree/main/5tasks>
 
-циклы - <https://github.com/sasageyoas/domashka/tree/main/cikli>
+☆циклы - <https://github.com/sasageyoas/domashka/tree/main/cikli>
 
-кодран - <https://github.com/sasageyoas/domashka/tree/main/coderun>
+☆кодран - <https://github.com/sasageyoas/domashka/tree/main/coderun>
 
-крестики нолики - <https://github.com/sasageyoas/domashka/tree/main/krestiki-noliki>
+☆крестики нолики - <https://github.com/sasageyoas/domashka/tree/main/krestiki-noliki>
 
-массив - <https://github.com/sasageyoas/domashka/tree/main/massiiv> 
+☆массив - <https://github.com/sasageyoas/domashka/tree/main/massiiv> 
 
-простой калькулятор - <https://github.com/sasageyoas/domashka/tree/main/calccc>
+☆простой калькулятор - <https://github.com/sasageyoas/domashka/tree/main/calccc>
+язык:
+-обработка пользвовательского ввода
+-арифметические операции
 
-UML блок схемы - <https://github.com/sasageyoas/domashka/tree/main/uml>
+☆UML блок схемы - <https://github.com/sasageyoas/domashka/tree/main/uml>
+платворма: [Draw.io](https://www.drawio.com/)
