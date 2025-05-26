@@ -11,9 +11,9 @@
 
 сожержание репозитория	(ﾉ´ヮ`)ﾉ*: ･ﾟ
 
-☆функции -<https://github.com/sasageyoas/domashka/tree/main/5tasks> <br>язык: С#
+☆функции -<https://github.com/sasageyoas/domashka/tree/main/5tasks> <br>язык: С# 
 
-☆циклы - <https://github.com/sasageyoas/domashka/tree/main/cikli> <br>язык: С#
+☆циклы - <https://github.com/sasageyoas/domashka/tree/main/cikli> <br>язык: С# <br>разные виды циклов <br>вложенные конструкции 
 
 ☆кодран - <https://github.com/sasageyoas/domashka/tree/main/coderun> <br>язык: С#
 
