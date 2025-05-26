@@ -9,7 +9,7 @@
 
 ☆[крестики нолики](https://github.com/sasageyoas/domashka/tree/main/krestiki-noliki)☆ <br>язык: С# <br>двумерные массивы <br>циклы while/for
 
-☆[массив](https://github.com/sasageyoas/domashka/tree/main/massiiv)☆  <br>язык: С# <br>при просмотре массивов у вас будет все: деньки, телки, тачки...
+☆[массив](https://github.com/sasageyoas/domashka/tree/main/massiiv)☆  <br>язык: С# <br>при просмотре массива у вас будет все: деньги, телки, тачки...
 
 ☆[простой калькулятор](https://github.com/sasageyoas/domashka/tree/main/calccc)☆ <br>язык: С# <br>обработка пользвовательского ввода <br>арифметические операции
 
