@@ -3,7 +3,7 @@
 <h3>задание:
 <br>создать консольное приложение, которое будет выполнять функции простого файлового проводника. Пользователь сможет просматривать содержимое каталогов, открывать файлы, создавать новые каталоги и файлы, а также удалять их.
   
-<br>[код](https://github.com/sasageyoas/domashka/blob/main/provodnik/ProvodnikVMirDiskov.cs)
+[код](https://github.com/sasageyoas/domashka/blob/main/provodnik/ProvodnikVMirDiskov.cs)
   
 <br>Добрался до башни герой,
 <br>А на самой верхушки пылает консоль -
